@@ -1,1 +1,2 @@
-# 2026-VK-EDU-ITProject-Managment-13-Izmaylov-M
+# 2026-VK-EDU-ITProject-Management-13-Izmaylov-M
+B2B
