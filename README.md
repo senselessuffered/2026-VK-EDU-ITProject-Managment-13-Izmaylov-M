@@ -1,0 +1,1 @@
+# 2026-VK-EDU-ITProject-Managment-13-Izmaylov-M
