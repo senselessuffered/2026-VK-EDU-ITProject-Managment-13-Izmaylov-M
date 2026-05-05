@@ -474,25 +474,41 @@ _Контейнер_
 ![фото 5](img/4c_container.png)
 
 _Стек_
+
 Backend
+
 - Python (FastAPI)
+
 Mobile
+
 - Kotlin (Android)
+
 Web
+
 - TypeScript + React
+
 Database
+
 - PostgreSQL
 - MySQL
 - Cache
 - Redis
+
 Messaging / очереди
+
 - Kafka
+
 Notifications
+
 - Firebase Cloud Messaging
 - SMTP / Email сервис
+
 API Gateway / Infra
+
 - Nginx
+
 Контейнеризация
+
 - Docker
 
 ## Задание 5
