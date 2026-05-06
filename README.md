@@ -7,6 +7,8 @@
 
 [Ссылка на доску Miro](https://miro.com/app/board/uXjVHefSmfc=/?share_link_id=547423769792)
 
+![фото 0](img/me.png)
+
 ## Задание 1
 **LEAN CANVAS**
 ![фото 1](img/lean_canvas.png)
